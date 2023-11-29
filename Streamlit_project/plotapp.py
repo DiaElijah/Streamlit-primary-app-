@@ -4,8 +4,8 @@ import numpy as np
 from datetime import datetime
 from random import randint
 # from streamlit_echarts import st_echarts
-from plotly.tools import FigureFactory as ff
-import plotly.express as px
+# from plotly.tools import FigureFactory as ff
+# import plotly.express as px
 from sklearn.preprocessing import LabelEncoder
 
 st.write('''
