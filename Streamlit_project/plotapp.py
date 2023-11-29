@@ -1,6 +1,6 @@
-!pip install streamlit_echarts
-!pip install plotly
-!pip install scikit-learn
+pip install streamlit_echarts
+pip install plotly
+pip install scikit-learn
 
 import streamlit as st
 import pandas as pd
